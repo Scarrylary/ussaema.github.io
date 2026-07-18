@@ -31,6 +31,37 @@ We present CoProU, a principled probabilistic formulation that propagates and fu
 <table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
   <td width="40%">
     <div class="one">
+    <img src="/images/publications/semcityloc.png" width="100%"> </div>
+  </td>
+  <td valign="top" width="75%">
+    <papertitle>
+    <strong>
+      <a href="https://albertchen98.github.io/SemCityLoc" target="_blank">SemCityLoc: Aerial 6DoF Localization Using Semantic 3D City Models</a>
+    </strong>
+    </papertitle>
+    <br>
+    Jingfeng Mao,
+    Xuyang Chen,
+    Qilin Zhang,
+    <strong>Oussema Dhaouadi</strong>,
+    Guangming Wang,
+    Brian Sheil,
+    <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>,
+    <a href="https://yan-xia.github.io/" target="_blank">Yan Xia</a>,
+    <a href="https://olafwysocki.github.io/" target="_blank">Olaf Wysocki</a>
+    <br>
+    <em><strong>arXiv</strong> 2026</em>
+    <br>
+    <a href="https://albertchen98.github.io/SemCityLoc" target="_blank">Project Page</a> | 
+    <a href="https://arxiv.org/abs/2606.27444" target="_blank">Paper</a>
+<br>
+We propose SemCityLoc, a semantic-geometric alignment system that reframes aerial pose estimation as structured surface registration between foundation-model-derived visual priors and standardized LoD-compliant 3D city models, reducing mean positional error from 9.89m to 2.62m in challenging urban canyons.
+</td>
+</table>
+
+<table class="responsive" width="100%" align="center" border="0" cellspacing="0" cellpadding="20">  
+  <td width="40%">
+    <div class="one">
     <img src="/images/publications/orthotrack.png" width="100%"> </div>
   </td>
   <td valign="top" width="75%">
