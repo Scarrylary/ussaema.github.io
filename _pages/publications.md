@@ -40,12 +40,12 @@ We present CoProU, a principled probabilistic formulation that propagates and fu
     </strong>
     </papertitle>
     <br>
-    Jingfeng Mao,
-    Xuyang Chen,
-    Qilin Zhang,
+    <a href="https://www.linkedin.com/in/jingfeng-mao-125928260/" target="_blank">Jingfeng Mao</a>,
+    <a href="https://albertchen98.github.io" target="_blank">Xuyang Chen</a>,
+    <a href="https://scholar.google.com/citations?user=Eh75_GcAAAAJ&hl=en" target="_blank">Qilin Zhang</a>,
     <strong>Oussema Dhaouadi</strong>,
-    Guangming Wang,
-    Brian Sheil,
+    <a href="https://guangmingw.github.io" target="_blank">Guangming Wang</a>,
+    <a href="https://www.construction.cam.ac.uk/staff/dr-brian-sheil" target="_blank">Brian Sheil</a>,
     <a href="https://cvg.cit.tum.de/members/cremers" target="_blank">Daniel Cremers</a>,
     <a href="https://yan-xia.github.io/" target="_blank">Yan Xia</a>,
     <a href="https://olafwysocki.github.io/" target="_blank">Olaf Wysocki</a>
